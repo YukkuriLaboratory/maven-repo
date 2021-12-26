@@ -2,5 +2,5 @@
 
 | Name   | Artifact ID | LatestVersion |
 | ------ | ----------- | ------------- |
-| Lablib | lablib      | 0.1.0+1.18.1  |
+| Lablib | lablib      | 0.1.1+1.18.1  |
 
